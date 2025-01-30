@@ -1,3 +1,6 @@
+🔗 **View the interactive Power BI dashboard online:**  
+👉 [Click here to explore](https://app.powerbi.com/view?r=eyJrIjoiNGQ5MDRhNzEtM2QzNy00YmYwLTg1MTEtNzZiZjQxY2UwMGNkIiwidCI6IjgxMjcwZjZhLTdjNjUtNGUzNC04NzQzLTFlMGNjYzk2Y2Y1YSJ9)
+
 #  German Demographics & Migration Analysis
 
 ## 📊 Overview  
