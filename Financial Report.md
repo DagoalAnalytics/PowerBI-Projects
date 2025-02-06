@@ -4,7 +4,7 @@
 This Power BI dashboard provides an executive overview of business performance, analyzing key metrics such as total sales, total expenses, net profit, and profit margin across different regions and time periods. The dashboard helps stakeholders visualize trends, profitability, and operational efficiency.
 
 🔗 **View the interactive Power BI dashboard online:**  
-👉 [Click here to explore](https://app.powerbi.com/view?r=eyJrIjoiNTFmNjUwNjktNjg0My00MjM5LTgwODAtMjk1MDFkYjlhOGM1IiwidCI6IjgxMjcwZjZhLTdjNjUtNGUzNC04NzQzLTFlMGNjYzk2Y2Y1YSJ9)
+👉 [Click here to explore](https://app.powerbi.com/view?r=eyJrIjoiNTFmNjUwNjktNjg0My00MjM5LTgwODAtMjk1MDFkYjlhOGM1IiwidCI6IjgxMjcwZjZhLTdjNjUtNGUzNC04NzQzLTFlMGNjYzk2Y2Y1YSJ9&pageName=b6da4bfa4a60ca786d09)
 
 📊 **Key Insights**  
 📈 **Total Sales & Profit**  
